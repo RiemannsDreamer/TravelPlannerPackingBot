@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # API Keys not shared
-keys.env
+.env
 .env
