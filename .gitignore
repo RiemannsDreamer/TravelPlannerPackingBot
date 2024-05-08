@@ -161,3 +161,4 @@ cython_debug/
 
 # API Keys not shared
 keys.env
+.env
